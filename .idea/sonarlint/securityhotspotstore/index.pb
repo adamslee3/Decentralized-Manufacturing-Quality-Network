@@ -7,3 +7,5 @@ T
 $contracts/facility-verification.clar,8/4/846317c1e114e49185758a0163ab152909b6c720
 T
 $contracts/standard-registration.clar,8/0/80bce66b57be23320a5951606987bc5f019f036d
+O
+contracts/testing-protocol.clar,a/e/ae6f30b4aca35bea72819c3b9ad16efe73834ffe
